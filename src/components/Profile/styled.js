@@ -17,7 +17,7 @@ export const ProfileLink = styled(Link)`
   }  
 `
 
-export const ProfileAuthor = styled.h1`
+export const ProfileAuthor = styled.div`
   font-size: 1.6rem;
   margin: 0.5rem auto 1.5rem;
 `
